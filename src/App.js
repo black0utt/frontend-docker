@@ -137,7 +137,7 @@ function App() {
     <div className="App">
       <header className="container">
         <div className="header">
-          <h1>Dont be leazzy</h1>
+          <h1>Dont be leazzyaaaaaaaaaaa</h1>
         </div>
         <Todos todos={todos}></Todos>
         <input value={inputValue} 
